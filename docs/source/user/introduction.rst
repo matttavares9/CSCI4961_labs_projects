@@ -9,17 +9,18 @@ Description
 ===========
 Welcome to `Quantum Education Modules <https://github.com/YangletLiu/quantum-education-modules>`_! 
 
-`Quantum Education Modules <https://github.com/YangletLiu/quantum-education-modules>`_ takes an open-source, hands-on approach to make quantum computing 
-intuitive and accessible for students. 
+`Quantum Education Modules <https://github.com/YangletLiu/quantum-education-modules>`_ project provides an open-source, hands-on learning platform designed to make 
+quantum computing intuitive and accessible for students at all levels.
 
-The modules include labs, experiments, and projects, allowing you to first learn quantum concepts interactively through simulations using Jupyter notebooks. 
-Then, you will have the opportunity to explore with IBM Quantum System One. RPI students could use the on campus quantum computer. 
+These modules include labs, experiments, and projects that allow you to interactively explore quantum concepts using Jupyter notebooks. 
+Once foundational knowledge is established, you’ll have the opportunity to apply what you’ve learned by working with real quantum hardware through IBM Quantum System One. 
+RPI students may also access the on-campus quantum computer.
 
-Through these modules, we provide:
+Key features include:
 
-- **Clear, step-by-step guidance**: Clear instructions to guide you through each module.
-- **Friendly learning paths**: Friendly to newcomers, with background of trigonometric functions.
-- **Practical experience**: Opportunities to engage directly with real quantum hardware.
+- **Step-by-step guidance**: Clear instructions to guide you through each module.
+- **Beginner-friendly approach**: Friendly to newcomers, with background of trigonometric functions.
+- **Hands-on experience**: Opportunities to engage directly with real quantum hardware.
 
 .. image:: ./images/modules.png
    :align: center
@@ -27,11 +28,11 @@ Through these modules, we provide:
 
 Motivation
 ==========
-The emerging field of quantum computing offers the opportunity for new career paths, research, and collaboration. However, the complexity of the field can be a barrier 
-to entry for interested students.
+Quantum computing is a rapidly growing field, offering exciting opportunities for careers, research, and interdisciplinary collaboration. 
+However, the complexity and abstract nature of the subject often create barriers for new learners.
 
-Our goal is to make quantum computing more approachable and engaging for newcomers. We aim to break down the barrier to entry by offering a hands-on approach that allows
-you to learn and explore quantum concepts easily.
+Our mission is to lower these barriers by offering a practical, accessible learning experience. 
+Through these hands-on modules, we aim to empower students to confidently engage with quantum computing concepts and prepare for future advancements in the field.
 
-By integrating these modules into existing and future quantum courses, we hope to support you in developing key quantum computing skills as well as prepare you for exciting
-opportunities in the field!
+By integrating these resources into current and future quantum courses, we strive to support students in building foundational skills and
+exploring the possibilities of this emerging technology.
